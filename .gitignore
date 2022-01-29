@@ -14,3 +14,7 @@ kernel
 kernelmemfs
 mkfs
 .gdbinit
+.DS_Store
+.vscode/*
+xv6.pdf
+xv6.tar.gz
